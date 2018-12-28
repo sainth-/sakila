@@ -1,3 +1,8 @@
+This repository was created by extracting https://github.com/jOOQ/jOOQ/tree/master/jOOQ-examples/Sakila as single repository.
+
+The original file contents:
+---
+
 Sakila sample database was ported to the following databases
 
  Oracle
